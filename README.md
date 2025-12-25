@@ -4,7 +4,7 @@ I'm a Software Engineer and Space Enthusiast. I create Full stack applications t
 
 <p align="center">
   <a href="https://nathanpons.com">
-    <img src="https://img.shields.io/badge/Check_Out-My_Portfolio-blue?style=for-the-badge" alt="Nathan Pons' website"/>
+    <img src="https://img.shields.io/badge/Check_Out-My_Portfolio-blue?style=for-the-badge" target="_blank" alt="Nathan Pons' website"/>
   </a>
 </p>
 
