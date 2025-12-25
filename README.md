@@ -3,7 +3,7 @@
 I'm a Software Engineer and Space Enthusiast. I create Full stack applications that I think are interesting and, above all, useful. I'm committed to a life of learning and forever improving myself and my work.
 
 <p align="center">
-  <a href="https://nathanpons.com" target="_blank">
+  <a href="https://nathanpons.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Check_Out-My_Portfolio-blue?style=for-the-badge" alt="Nathan Pons' website"/>
   </a>
 </p>
